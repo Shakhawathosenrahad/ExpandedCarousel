@@ -110,5 +110,7 @@
         padding: 8px;
     }
 
-
+    .crossjoin_text p {
+        font-size: clamp(.8rem, 1vw, 1rem);
+    }
 }
